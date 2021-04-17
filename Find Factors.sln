@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Factors", "Find Factors.csproj", "{F800E695-9601-4544-A49E-94121ADCC343}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorTest", "FactorTest\FactorTest.csproj", "{503B8798-A3D4-4586-9C1B-EE87F27463C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathLibrary", "MathLibrary\MathLibrary.csproj", "{0B7B4ECB-A67F-4019-AB3A-714107782CBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F800E695-9601-4544-A49E-94121ADCC343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F800E695-9601-4544-A49E-94121ADCC343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F800E695-9601-4544-A49E-94121ADCC343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F800E695-9601-4544-A49E-94121ADCC343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{503B8798-A3D4-4586-9C1B-EE87F27463C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{503B8798-A3D4-4586-9C1B-EE87F27463C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{503B8798-A3D4-4586-9C1B-EE87F27463C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{503B8798-A3D4-4586-9C1B-EE87F27463C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B7B4ECB-A67F-4019-AB3A-714107782CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B7B4ECB-A67F-4019-AB3A-714107782CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B7B4ECB-A67F-4019-AB3A-714107782CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B7B4ECB-A67F-4019-AB3A-714107782CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24AEE9FB-73B1-4C54-B861-2C8EA73D5EF3}
+	EndGlobalSection
+EndGlobal
